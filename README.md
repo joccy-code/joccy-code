@@ -56,8 +56,20 @@
 </p>
 
 ## 📫 How to Reach Me
-- 📧 Email: **jossyyoseph14@gmail.com**
-- 📺 YouTube: **youtube.JoFix.com**
-- 🧑‍💻 GitHub: **github.com/joccy-code**
-- 🌐 Portfolio: *https://jossymesfin.vercel.app/*
+
+- 📧 **Email:** [jossyyoseph14@gmail.com](mailto:jossyyoseph14@gmail.com)
+- 🎥 **YouTube (JoFix):** https://www.youtube.com/@JoFix
+- 🧑‍💻 **GitHub:** https://github.com/joccy-code
+- 🌐 **Portfolio:** https://jossymesfin.vercel.app/
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jossy-mesfin-yoseph-965155372/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
