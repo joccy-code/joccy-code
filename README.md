@@ -58,7 +58,7 @@
 ## 📫 How to Reach Me
 
 - 📧 **Email:** [jossyyoseph14@gmail.com](mailto:jossyyoseph14@gmail.com)
-- 🎥 **YouTube (JoFix):** https://www.youtube.com/@JoFix
+- 🎥 **YouTube (JoFixHUb):** https://www.youtube.com/@JoFixhub
 - 🧑‍💻 **GitHub:** https://github.com/joccy-code
 - 🌐 **Portfolio:** https://jossymesfin.vercel.app/
 
