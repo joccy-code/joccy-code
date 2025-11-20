@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jossymesfin&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jossymesfin&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joccy-code&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joccy-code&theme=radical" />
 </p>
 
 ## 📫 How to Reach Me
