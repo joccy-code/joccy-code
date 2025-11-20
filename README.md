@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Jossy Mesfin</h1>
-<h3 align="center">Fullstack Developer | MERN Stack | Tech Problem-Solver | Content Creator</h3>
+<h3 align="center">Software Engineer | Fullstack Developer|  Tech Problem-Solver </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -51,8 +51,8 @@
 </p>
 
 ## 📫 How to Reach Me
-- 📧 Email: **(add your preferred email here)**
+- 📧 Email: **jossyyoseph14@gmail.com**
 - 📺 YouTube: **JoFix**
-- 🧑‍💻 GitHub: **JossyMesfin**
-- 🌐 Portfolio: *Coming soon…*
+- 🧑‍💻 GitHub: **joccy-code**
+- 🌐 Portfolio: *https://jossymesfin.vercel.app/*
 
